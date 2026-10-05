@@ -23,15 +23,16 @@ const HeroSection = () => {
             className="lg:col-span-7"
           >
             <span className="site-eyebrow block text-white/50">
-              Clinic operations software
+              Clinexus
             </span>
             <h1 className="mt-5 max-w-2xl text-4xl text-white md:text-5xl lg:text-[3.75rem]">
-              Your clinic deserves more revenue, and fewer late nights.
+              Healthcare software should understand healthcare.
             </h1>
             <p className="mt-6 max-w-lg text-base leading-relaxed text-white/60">
-              Stop chasing payments, fixing billing mistakes, and drowning in paperwork.
-              Clinexus runs the business side of your clinic so you can focus on patients,
-              and actually go home on time.
+              You do not simply need software that can store patient information.
+              You need software that understands how your facility actually operates,
+              from your front desk to your treatment rooms. That is exactly what
+              Clinexus was built for.
             </p>
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <a href="https://wa.me/2349017758165?text=Hello%20I%20would%20like%20to%20know%20more%20about%20Clinexus" target="_blank" rel="noopener noreferrer">
