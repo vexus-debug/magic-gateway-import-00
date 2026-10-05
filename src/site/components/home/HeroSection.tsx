@@ -7,7 +7,7 @@ const dashboardScreenshot = dashboardAsset.url;
 
 const proofPoints = [
   { value: "3–4 hrs", label: "Admin time given back each day" },
-  { value: "40%", label: "Fewer no-shows with automatic reminders" },
+  { value: "40%", label: "Fewer no shows with automatic reminders" },
   { value: "9", label: "Staff roles with their own access" },
 ];
 

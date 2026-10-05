@@ -45,7 +45,7 @@ const TestimonialsSection = () => {
             Clinic Owners Who Got Their Lives Back
           </h2>
           <p className="text-muted-foreground">
-            Not feature reviews, real clinic owners whose businesses, and evenings, actually changed.
+            Not feature reviews. Real clinic owners whose businesses, and evenings, actually changed.
           </p>
         </motion.div>
 

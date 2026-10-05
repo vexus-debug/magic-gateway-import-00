@@ -19,7 +19,7 @@ const CTASection = () => {
             Your Clinic Could Look Like This Tomorrow
           </h2>
           <p className="mb-8 text-lg text-muted-foreground">
-            Imagine knowing exactly what your clinic made today. Appointments running on time. Staff doing their jobs without you chasing anyone. That's Clinexus, from day one.
+            Imagine knowing exactly what your clinic made today. Appointments running on time. Staff doing their jobs without you chasing anyone. That is what we built Clinexus to give you, from day one.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
             <a href="https://wa.me/2349017758165?text=Hello%20I%20would%20like%20to%20know%20more%20about%20Clinexus" target="_blank" rel="noopener noreferrer">

@@ -90,11 +90,11 @@ const CollaborateSection = () => {
               A Team You Can Trust, Without Watching Their Every Move
             </h2>
             <p className="mb-6 text-lg leading-relaxed text-white/60">
-              Dentists chart teeth. Receptionists manage bookings. Lab techs handle cases. Accountants track the money. Everyone sees only what they need, nothing more, nothing they shouldn't.
+              Your dentists chart teeth. Your receptionists manage bookings. Your lab techs handle cases. Your accountants track the money. Everyone sees only what they need, nothing more, nothing they shouldn't.
             </p>
             <ul className="space-y-3">
               {[
-"9 ready-made roles: Owner, Admin, Dentist, Hygienist, and more",
+"9 ready made roles: Owner, Admin, Dentist, Hygienist, and more",
 "Your data locked down, record by record",
 "Every action logged, so nothing goes unaccounted for",
 "Talk to your team without a single WhatsApp group",

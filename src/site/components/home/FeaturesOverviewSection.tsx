@@ -20,7 +20,7 @@ const invoices = [
 const labCases = [
   { caseId: "LAB-118", work: "Zirconia crown, tooth 26", lab: "Bridgeway Dental Lab", due: "Due tomorrow" },
   { caseId: "LAB-121", work: "Upper partial denture", lab: "Bridgeway Dental Lab", due: "In transit" },
-  { caseId: "LAB-124", work: "Single-vision lenses", lab: "Optica Works", due: "Ready for fitting" },
+  { caseId: "LAB-124", work: "Single vision lenses", lab: "Optica Works", due: "Ready for fitting" },
 ];
 
 const panelClass =
@@ -37,9 +37,9 @@ const FeaturesOverviewSection = () => {
           transition={{ duration: 0.5 }}
           className="max-w-2xl"
         >
-          <span className="site-eyebrow block text-white/45">A day inside the clinic</span>
+          <span className="site-eyebrow block text-white/45">A day inside your clinic</span>
           <h2 className="mt-4 text-3xl text-white md:text-4xl">
-            Today's schedule, the money owed, and every lab case, in one place.
+            Your schedule, the money owed you, and every lab case, in one place.
           </h2>
           <p className="mt-4 text-white/55">
             No dashboards full of icons. Just the three things that decide whether your day runs
