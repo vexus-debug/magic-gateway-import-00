@@ -12,12 +12,12 @@ const faqs = [
     a: "Most clinic owners report saving 2–4 hours a day within the first week. Everything that used to require switching between tools, billing, scheduling, records, lab tracking, happens in one place. You stop managing software and start managing your clinic.",
   },
   {
-    q: "What if my staff isn't tech-savvy?",
+    q: "What if my staff isn't tech savvy?",
     a: "Clinexus is built to be as intuitive as a smartphone. Your receptionist, your nurses, your lab tech, they'll figure it out fast. We also provide onboarding support and tutorials built right into the platform.",
   },
   {
     q: "How quickly will I see a difference?",
-    a: "Most clinics see fewer no-shows within the first week (automated reminders kick in immediately) and cleaner billing from day one. The full impact, better cash flow, staff accountability, real profitability data, compounds quickly as your team settles in.",
+    a: "Most clinics see fewer no shows within the first week (automated reminders kick in immediately) and cleaner billing from day one. The full impact, better cash flow, staff accountability, real profitability data, compounds quickly as your team settles in.",
   },
   {
     q: "Can my patients book appointments themselves?",

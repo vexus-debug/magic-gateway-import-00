@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
 const stats = [
-  { value: "500+", label: "Clinics Running Without the Chaos" },
+  { value: "500+", label: "Clinics Like Yours, Running Without the Chaos" },
   { value: "40%", label: "Fewer Patients Who Never Show Up" },
   { value: "60%", label: "Less Time Buried in Admin" },
-  { value: "₦4.8M", label: "Avg. Monthly Revenue Owners Now Track" },
+  { value: "₦4.8M", label: "Avg. Monthly Revenue You Could Be Tracking" },
 ];
 
 const StatsSection = () => {

@@ -15,7 +15,7 @@ const results = [
     icon: Clock,
     label: "Fewer Empty Chairs",
     value: "40%",
-    sub: "Fewer no-shows, patients get reminded automatically so they actually show up",
+    sub: "Fewer no shows. Patients get reminded automatically so they actually show up",
     color: "from-[hsl(var(--primary))] to-[hsl(var(--medical-teal))]",
     image: appointmentsScreenshot,
     imageAlt: "Eye clinic appointments and patient schedule in Clinexus",
@@ -65,7 +65,7 @@ const SolutionSection = () => {
               </span>
             </h2>
             <p className="mb-8 max-w-md text-base leading-relaxed text-muted-foreground">
-              Most clinic owners lose 3–4 hours a day to admin, chasing payments, fixing records, counting stock, managing staff. That's time stolen from patients, from growth, from your family. Clinexus hands it back.
+              You did not open your clinic to chase payments, patch up records, count stock and police staff. Yet those things quietly take three or four hours from you every day. Time stolen from patients, from growth, from your family. Clinexus hands it back.
             </p>
             <Link to="/industries/eye-clinics/features">
               <Button className="gap-2 rounded-md bg-primary px-8 text-white shadow-md hover:opacity-90">
